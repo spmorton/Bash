@@ -1,4 +1,11 @@
+#! /bin/bash
 
+# Author -  Scott P. Morton
+# Date - 9/9/2019
+# rdp.sh - a command line tool for uniform execution of xfreerdp
+# Please honor the terms of GPL 2.0 and maintain my authorship
+# license - GPL 2.0
+#
 echo
 echo "Usage: ./rdp.sh servername username@somedomain.dom"
 echo
